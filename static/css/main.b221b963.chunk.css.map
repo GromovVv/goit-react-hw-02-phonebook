@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.scss","webpack://src/BasicStyles.scss"],"names":[],"mappings":"AAAA,KACI,qBAAoC,CCDxC,KACI,qBAAsB,CACtB,WAAY","file":"main.b221b963.chunk.css","sourcesContent":[".App {\r\n    background-color: rgb(255, 255, 255);\r\n}","body {\r\n    background-color: teal;\r\n    height: 100%;\r\n}\r\n\r\n.BasicStyles {\r\n\r\n}"]}
